@@ -9,7 +9,7 @@
  *   Here our program takes in an outfile name, and two arguments for
  *   the rows and columns for the size of the image to produce. 
 */ 
-
+// this is a comment
 int main(int argc,    // This is the number of things passed into this function.  
          char *argv[] // This is the array of things passed. 
         ){
